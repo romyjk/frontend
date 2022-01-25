@@ -232,7 +232,7 @@ Onze docent, Vasilis, gunde degenen die het nog niet gehaald hadden nog een extr
 
 <img src="images/screenshot_site.png" alt="screenshot website">
 <img src="images/screenshot_site_two.png" alt="screenshot website">
-<img src="images/code.twee.png" alt="code animatie">
+<img src="images/code_twee.png" alt="code animatie">
 
 Ik had ook nog het idee om mijn site responsive te maken. Ik ga namelijk blok Tech doen en ik moet mijn portfolio nog maken, dus dan kan ik er vast mee oefenen. Helaas is dit mij uiteindelijk niet gelukt. Ik heb er erg veel tijd in gestoken om mijn hamburgermenu uit te laten klappen en mijn zoekbalk naast mijn menu items te positioneren wanneer het op een groter scherm bekeken werd. Dit probeerde ik te doen door middel van een voorbeeld van Sanne, die alleen flexbox gebruikte. Dit lukte mij niet. Ook heb ik de slides uit de les proberen te volgen, maar het kostte mij gewoon teveel tijd zonder veel progressie. Uiteindelijk heb ik geprobeert om de rest van mijn pagina responsive te maken, maar ik denk dat ik de verkeerde code heb getypt om dit makkelijk responsive te maken. Ik heb veel gebruik gemaakt van position: absolute, waardoor er telkens elementen verplaatsten als ik het scherm groter maakte en ik er uiteindelijk wel 20 media queries voor zou moeten schrijven (naar mijn idee). Ik weet vrijwel zeker dat hier een makkelijkere manier voor is, maar om de helft van mijn code opnieuw te schrijven voor de bonuspunten vond ik een beetje te gek.
 
